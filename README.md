@@ -2,7 +2,7 @@
 1. Set up a `SQLite` database
 2. Scrape and save data into your database
 3. Use data to make ruby objects
-
+``
 ### Overview
 In this lab you will set up your schema, scrape data, insert it into your db and
 then build out methods to manipulate your data.
